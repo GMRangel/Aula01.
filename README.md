@@ -1,2 +1,2 @@
-# Aulo01.
+# Aula01.
 Exercícios em aula
